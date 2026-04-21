@@ -13,8 +13,8 @@
 ---
 
 ## Features
-- **[RP2040](https://pip-assets.raspberrypi.com/categories/814-rp2040/documents/RP-008371-DS-1-rp2040-datasheet.pdf) MCU** - 32-bit dual core ARM Cortex M0+ from Raspberry Pi.
-- **[nRF24L01P](https://cdn.sparkfun.com/assets/3/d/8/5/1/nRF24L01P_Product_Specification_1_0.pdf) chip** - low-power 2.4GHz radio transceiver, with a PCB trace antenna.
+- **[RP2040](https://pip-assets.raspberrypi.com/categories/814-rp2040/documents/RP-008371-DS-1-rp2040-datasheet.pdf) MCU** - 32bit dual core ARM Cortex M0+ from Raspberry Pi.
+- **[nRF24L01P](https://cdn.sparkfun.com/assets/3/d/8/5/1/nRF24L01P_Product_Specification_1_0.pdf) chip** -  2.4GHz radio transceiver, with a PCB trace antenna.
 - **USB C** - for programming and power.
 - **Raspberry Pi Pico formfactor** - but less pins; 2x18
 - **W25Q128JVPIQ flash storage chip** - 16MB high speed flash storage, intergrated with the RP2040 over quad SPI.
@@ -25,12 +25,30 @@
 
 ## Pinout
 
-
-## Schematic Design
-*Find the schematic file [here]()*
+<img alligns = "center" width="1723" height="892" alt="PCB Render" src="https://github.com/yassin-v2/Rapico/blob/main/Assets/Board%20Pinout.png" />
 
 ## PCB Design
-*Find the PCB file [here]()*
+*Find the PCB files [here](https://github.com/yassin-v2/Rapico/tree/main/PCB)*
+
+The PCB is a 2 layer PCB with dimentions 51mm x 21mm.
+
+| ![](https://github.com/yassin-v2/Rapico/blob/main/Assets/FCu.jpg) | ![](https://github.com/yassin-v2/Rapico/blob/main/Assets/BCu.jpg) |
+|:---:|:---:|
+
+## Schematic Design
+*Find the schematic files [here](https://github.com/yassin-v2/Rapico/tree/main/PCB)*
+
+  <img src="https://github.com/yassin-v2/Rapico/blob/main/Assets/Schematic%20Full.png">
+
+### nRF chip schematic:
+  <img src="https://github.com/yassin-v2/Rapico/blob/main/Assets/Schematic%20nRF.png">
+
+### Power input schematic:
+  <img src="https://github.com/yassin-v2/Rapico/blob/main/Assets/Schematic%20Power.png">
+
+----
+| ![](https://github.com/yassin-v2/Rapico/blob/main/Assets/Render%20Top.jpg) | ![](https://github.com/yassin-v2/Rapico/blob/main/Assets/Render%20Bottum.jpg) |
+|:---:|:---:|
 
 
-***Made with Kicad 9, as part of [Stasis](https://stasis.hackclub.com) from [Hackclub](https://hackclub.com/)***
+<p align="center"><strong><em>Made with KiCad 9, as part of <a href="https://stasis.hackclub.com">Stasis</a> from <a href="https://hackclub.com/">Hackclub</a></em></strong></p>
