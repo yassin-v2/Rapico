@@ -1,12 +1,14 @@
-<img width="1333" height="175" alt="rapico logo" src="https://github.com/user-attachments/assets/26227bd9-6ad5-4ce1-84e2-db5a73c75b01" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/26227bd9-6ad5-4ce1-84e2-db5a73c75b01">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/26227bd9-6ad5-4ce1-84e2-db5a73c75b01">
+  <img alligns = "center" width="1333" height="140" alt="Rapico logo" src="https://github.com/user-attachments/assets/26227bd9-6ad5-4ce1-84e2-db5a73c75b01">
+</picture>
+
+### A RP2040-based development board with a nRF wireless chip, designed in the Raspberry Pi Pico form factor.
 
 ----
 
-<img alligns ="center" width="1194" height="674" alt="Render of PCB's top" src="https://github.com/user-attachments/assets/f577fdae-ea3a-41cb-949e-ba842030ebee" />
-
------
-
-A compact, RP2040-based development board with a nRF wireless chip, designed in the Raspberry Pi Pico form factor.
+<img alligns = "center" width="1723" height="892" alt="PCB Render" src="https://github.com/user-attachments/assets/febcfec6-1957-425e-b399-b49c3192dc0b" />
 
 ---
 
