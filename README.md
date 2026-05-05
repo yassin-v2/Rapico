@@ -4,6 +4,7 @@
   <img alligns = "center" width="1333" height="140" alt="Rapico logo" src="https://github.com/user-attachments/assets/26227bd9-6ad5-4ce1-84e2-db5a73c75b01">
 </picture>
 
+
 ### A RP2040-based development board with a nRF wireless chip, designed in the Raspberry Pi Pico form factor.
 
 ----
@@ -47,8 +48,8 @@ The PCB is a 2 layer PCB with dimentions 51mm x 21mm.
   <img src="https://github.com/yassin-v2/Rapico/blob/main/Assets/Schematic%20Power.png">
 
 ----
-| ![](https://github.com/yassin-v2/Rapico/blob/main/Assets/Render%20Top.jpg) | ![](https://github.com/yassin-v2/Rapico/blob/main/Assets/Render%20Bottum.jpg) |
-|:---:|:---:|
+| ![](https://github.com/yassin-v2/Rapico/blob/main/Assets/Render%20Top.jpg) | ![](https://github.com/yassin-v2/Rapico/blob/main/Assets/Render%20Bottum.jpg) | ![](https://github.com/user-attachments/assets/3d0fc2f7-e9e7-4631-8841-ee721a29dc68) |
+|:---:|:---:|:---:|
 
 
 <p align="center"><strong><em>Made with KiCad 9, as part of <a href="https://stasis.hackclub.com">Stasis</a> from <a href="https://hackclub.com/">Hackclub</a></em></strong></p>
